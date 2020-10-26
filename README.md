@@ -5,6 +5,6 @@ INSTRUÇÕES:
 - Cria uma pasta com seu Nome;
 - Entre na pasta criada e crie um arquivo teste .txt;
 - Execute:
-	git add .
-	git commit -m "first commit"
-	git push
+> git add .
+> git commit -m "first commit"
+> git push
